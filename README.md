@@ -3,7 +3,7 @@
 Co-authors:
 - https://github.com/GoncaloMoreno
 - https://github.com/TheEvoluder
-- 
+- https://github.com/Ecologykk
 
 # Abstract:
 ### Advances in multi-wavelength astronomical observations have revolutionized our understanding of astrophysical phenomena by combining data from space- and ground-based telescopes. This study presents a systematic analysis of observations from the Transiting Exoplanet Survey Satellite (TESS), the Atacama Large Millimeter/submillimeter Array (ALMA), the High Acuity Wide-field K-band Imager (HAWK-I), and the James Webb Space Telescope (JWST), leveraging their complementary capabilities to explore stellar, exoplanetary, and extragalactic systems.
